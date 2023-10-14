@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.msg{
+    width: 200px;
+    height: 200px;
+    color: white;
+    background-color: rgb(14, 184, 51);
+    text-align:center;
+    line-height: 200px;
+    
+}
